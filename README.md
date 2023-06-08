@@ -10,11 +10,11 @@ This is a simple Movie Search App built with React. It allows users to search fo
 
 ## Features
 
-- Search movies by title
-- View movie details including title, year, actors, IMDb rating, and plot
-- Responsive design
-- Add movies to the favorites list
-- Remove movies from the favorites list
+- Search movies by title.
+- View movie details including title, year, actors, IMDb rating, and plot.
+- Responsive design.
+- Add movies to the favorites list.
+- Remove movies from the favorites list.
 
 ## Installation
 
