@@ -18,6 +18,6 @@ This is a simple Movie Search App built with React. It allows users to search fo
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/movie-search-app.git`
+1. Clone the repository: `git clone https://github.com/bobackursat99/movie-search-app.git`
 2. Navigate to the project directory: `cd movie-search-app`
 3. Install the dependencies: `npm install`
