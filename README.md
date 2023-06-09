@@ -22,3 +22,8 @@ This is a simple Movie Search App built with React. It allows users to search fo
 2. Navigate to the project directory: `cd movie-search-app`
 3. Install the dependencies: `npm install`
 4. Run program: `npm start`
+
+## Deployment
+
+I have deployed the project using Netlify.
+https://bobackursat-internship-task.netlify.app/
